@@ -3,11 +3,11 @@
 '
 ' Author: Alex Hedley - 599CD.com
 ' Created: 3rd November 2012
-' Updated: 
+' Updated: 9th September 2022
 ' ---------------------------------
 
- ' If you wanted the same thing everytime then you just need this one line of code.
- ' It will overwrite the file if it already exists
+' If you wanted the same thing everytime then you just need this one line of code.
+' It will overwrite the file if it already exists
 'download "http://599cd.s3-website-us-east-1.amazonaws.com/StudentFiles/Access/Access-2010-B1.zip", "D:\599CD\Sample\Access-2010-B1.zip"
 
 'InputBox( prompt [, title] [, default] [, xpos] [, ypos] [, helpfile] [, context] )
