@@ -16,7 +16,7 @@ Call subCreateFolders("D:\599CD\Downloads\vbs\")
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objFolder = objFSO.GetFolder("\\server1\sharedfolders")
 Set objSubFolders = objFolder.SubFolders
- 
+
 For each objSubFolder In objSubFolders
     wscript.echo objSubFolder
 Next
